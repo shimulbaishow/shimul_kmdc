@@ -1,0 +1,63 @@
+.bgc{
+    background-color: #34495e;
+  
+}
+.title{
+    text-shadow: 2px 2px 2px #CE5937;
+}
+
+.p_ple{
+  color: red;
+  background-color: green;
+  text-align: center;
+  margin-top: -1px;
+  padding: 8px;
+  font-weight: 700;
+}
+i.bi-facebook{
+    color: red;
+}
+i.bi-youtube{
+    color: green;
+}
+
+.position{
+    position: relative;
+
+}
+.site_logo{
+    position:absolute;
+     /* z-index: 10;   */
+     color: red;
+    left: 100px;
+    top: 60px;
+    display: flex;
+
+}
+.site_logo h3{
+    margin-top: 25px;
+  margin-left: 11px;
+  font-weight: 700;
+}
+/* .logo_banner{
+    position: relative;
+    z-index: 1;
+} */
+ .admin_notice{
+
+  background-color: azure;
+  border: 1px solid #adb1b5;
+  padding-left: 60px;
+  padding-top: 10px;
+}
+.p_ple_msg{
+    margin-top: 10px;
+}
+.p_ple_msg p{
+    margin: 5px;
+}
+.p_ple_msg h3{
+    background-color: #adb1b5;
+    padding: 10px;
+}
+ 
